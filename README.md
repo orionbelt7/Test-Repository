@@ -1,3 +1,3 @@
 # Test-Repository
-First Repository, (Learning)
+First Repository, (Learning).
 It's a markdown file in this repository.
