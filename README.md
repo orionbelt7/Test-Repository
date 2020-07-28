@@ -1,2 +1,2 @@
 # Test-Repository
-First Repository, (Lerning)
+First Repository, (Learning)
